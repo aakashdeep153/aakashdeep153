@@ -1,5 +1,12 @@
 my first git code
+<<<<<<< HEAD
 
 
 make it more simpler
 more easier
+=======
+app2
+my 2nd app codess
+
+compile to run
+>>>>>>> bug-fix
