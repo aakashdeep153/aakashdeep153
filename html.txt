@@ -3,3 +3,6 @@ my first git code
 
 
 make it more simpler
+
+
+commit 3
